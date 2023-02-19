@@ -11,9 +11,6 @@
 
 - 📫 How to reach me **ibrahimtahaistikbal@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,3 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=literallyethical&show_icons=true&locale=en" alt="literallyethical" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=literallyethical&" alt="literallyethical" /></p>
+
+###  📖 Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
