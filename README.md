@@ -27,9 +27,9 @@
 
 ##  📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reflected XSS in a JavaScript URL with some characters blocked](https://medium.com/@ibrahimtahaistikbal/reflected-xss-in-a-javascript-url-with-some-characters-blocked-2e75575e40b5?source=rss-b6724e788f7a------2)
 - [Reflected DOM XSS](https://medium.com/@ibrahimtahaistikbal/reflected-dom-xss-b56f2c2a91d0?source=rss-b6724e788f7a------2)
 - [Exploiting Cross-Site Scripting to Steal Cookies](https://medium.com/@ibrahimtahaistikbal/exploiting-cross-site-scripting-to-steal-cookies-3c5ca18d0959?source=rss-b6724e788f7a------2)
 - [Exploiting Cross-site Scripting to Capture Passwords](https://medium.com/@ibrahimtahaistikbal/exploiting-cross-site-scripting-to-capture-passwords-b4cce3a4f402?source=rss-b6724e788f7a------2)
 - [Dom XSS In Jquery Selector Sink Using A Hashchange Event](https://medium.com/@ibrahimtahaistikbal/dom-xss-in-jquery-selector-sink-using-a-hashchange-event-4e3d8ddb1e29?source=rss-b6724e788f7a------2)
-- [Dom XSS In Jquery Anchor Href Attribute Sink Using Location.Search Source](https://medium.com/@ibrahimtahaistikbal/dom-xss-in-jquery-anchor-href-attribute-sink-using-location-search-source-4f653f0c7072?source=rss-b6724e788f7a------2)
 <!-- BLOG-POST-LIST:END -->
