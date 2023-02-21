@@ -27,9 +27,9 @@
 
 ##  📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reflected XSS into a Javascript String with Angle Brackets and Double Quotes Html-Encoded and…](https://medium.com/@ibrahimtahaistikbal/reflected-xss-into-a-javascript-string-with-angle-brackets-and-double-quotes-html-encoded-and-b4041fd3e41b?source=rss-b6724e788f7a------2)
 - [Reflected XSS in Canonical Link Tag](https://medium.com/@ibrahimtahaistikbal/reflected-xss-in-canonical-link-tag-6bff368f2758?source=rss-b6724e788f7a------2)
 - [Reflected XSS in a JavaScript URL with some characters blocked](https://medium.com/@ibrahimtahaistikbal/reflected-xss-in-a-javascript-url-with-some-characters-blocked-2e75575e40b5?source=rss-b6724e788f7a------2)
 - [Reflected DOM XSS](https://medium.com/@ibrahimtahaistikbal/reflected-dom-xss-b56f2c2a91d0?source=rss-b6724e788f7a------2)
 - [Exploiting Cross-Site Scripting to Steal Cookies](https://medium.com/@ibrahimtahaistikbal/exploiting-cross-site-scripting-to-steal-cookies-3c5ca18d0959?source=rss-b6724e788f7a------2)
-- [Exploiting Cross-site Scripting to Capture Passwords](https://medium.com/@ibrahimtahaistikbal/exploiting-cross-site-scripting-to-capture-passwords-b4cce3a4f402?source=rss-b6724e788f7a------2)
 <!-- BLOG-POST-LIST:END -->
