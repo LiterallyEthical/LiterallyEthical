@@ -27,9 +27,9 @@
 
 ##  📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reflected XSS into Attribute with Angle Brackets HTML-Encoded](https://medium.com/@ibrahimtahaistikbal/reflected-xss-into-attribute-with-angle-brackets-html-encoded-191d4865362e?source=rss-b6724e788f7a------2)
 - [Reflected XSS into a Template Literal with angle brackets, single, double quotes, backslash and…](https://medium.com/@ibrahimtahaistikbal/reflected-xss-into-a-template-literal-with-angle-brackets-single-double-quotes-backslash-and-1713bb10b037?source=rss-b6724e788f7a------2)
 - [Reflected XSS into a JavaScript String with Single Quote and Backslash Escaped](https://medium.com/@ibrahimtahaistikbal/reflected-xss-into-a-javascript-string-with-single-quote-and-backslash-escaped-256e534b5015?source=rss-b6724e788f7a------2)
 - [Reflected XSS into a JavaScript String with Angle Brackets HTML Encoded](https://medium.com/@ibrahimtahaistikbal/reflected-xss-into-a-javascript-string-with-angle-brackets-html-encoded-46fbd94bf2e9?source=rss-b6724e788f7a------2)
 - [Reflected XSS into a Javascript String with Angle Brackets and Double Quotes Html-Encoded and…](https://medium.com/@ibrahimtahaistikbal/reflected-xss-into-a-javascript-string-with-angle-brackets-and-double-quotes-html-encoded-and-b4041fd3e41b?source=rss-b6724e788f7a------2)
-- [Reflected XSS in Canonical Link Tag](https://medium.com/@ibrahimtahaistikbal/reflected-xss-in-canonical-link-tag-6bff368f2758?source=rss-b6724e788f7a------2)
 <!-- BLOG-POST-LIST:END -->
