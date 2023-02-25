@@ -27,9 +27,9 @@
 
 ##  📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reflected XSS with Event Handlers and href Attributes Blocked](https://medium.com/@ibrahimtahaistikbal/reflected-xss-with-event-handlers-and-href-attributes-blocked-7dfadcbde439?source=rss-b6724e788f7a------2)
 - [Reflected XSS into HTML context with nothing encoded](https://medium.com/@ibrahimtahaistikbal/reflected-xss-into-html-context-with-nothing-encoded-5b8e27aeb9e1?source=rss-b6724e788f7a------2)
 - [Reflected XSS into HTML Context with most tags and attributes blocked](https://medium.com/@ibrahimtahaistikbal/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-d867b1bf1be9?source=rss-b6724e788f7a------2)
 - [Reflected XSS into HTML context with all tags blocked except custom ones](https://medium.com/@ibrahimtahaistikbal/reflected-xss-into-html-context-with-all-tags-blocked-except-custom-ones-ed9403b40dc4?source=rss-b6724e788f7a------2)
 - [Reflected XSS into Attribute with Angle Brackets HTML-Encoded](https://medium.com/@ibrahimtahaistikbal/reflected-xss-into-attribute-with-angle-brackets-html-encoded-191d4865362e?source=rss-b6724e788f7a------2)
-- [Reflected XSS into a Template Literal with angle brackets, single, double quotes, backslash and…](https://medium.com/@ibrahimtahaistikbal/reflected-xss-into-a-template-literal-with-angle-brackets-single-double-quotes-backslash-and-1713bb10b037?source=rss-b6724e788f7a------2)
 <!-- BLOG-POST-LIST:END -->
