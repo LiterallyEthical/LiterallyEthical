@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ltrllyethical" target="blank"><img src="https://img.shields.io/twitter/follow/ltrllyethical?logo=twitter&style=for-the-badge" alt="ltrllyethical" /></a> </p>
 
-- 🌱 I’m currently learning **Svelte, Flutter**
+- 🌱 I’m currently learning **Flutter**
 
 - 📝 I regularly write articles on [https://literallyethical.github.io/](https://literallyethical.github.io/)
 
