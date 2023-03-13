@@ -27,9 +27,9 @@
 
 ##  📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Stored XSS into HTML Context with Nothing Encoded](https://medium.com/@ibrahimtahaistikbal/stored-xss-into-html-context-with-nothing-encoded-3c54b32f2e0c?source=rss-b6724e788f7a------2)
 - [Stored XSS into Anchor href Attribute with Double Quotes HTML-encoded](https://medium.com/@ibrahimtahaistikbal/stored-xss-into-anchor-href-attribute-with-double-quotes-html-encoded-5dbf2deb840d?source=rss-b6724e788f7a------2)
 - [Stored Dom XSS](https://medium.com/@ibrahimtahaistikbal/stored-dom-xss-6af4960f1fbc?source=rss-b6724e788f7a------2)
 - [Reflected XSS with Some SVG Markup](https://medium.com/@ibrahimtahaistikbal/reflected-xss-with-some-svg-markup-34b53fc30415?source=rss-b6724e788f7a------2)
 - [Reflected XSS with Event Handlers and href Attributes Blocked](https://medium.com/@ibrahimtahaistikbal/reflected-xss-with-event-handlers-and-href-attributes-blocked-7dfadcbde439?source=rss-b6724e788f7a------2)
-- [Reflected XSS into HTML context with nothing encoded](https://medium.com/@ibrahimtahaistikbal/reflected-xss-into-html-context-with-nothing-encoded-5b8e27aeb9e1?source=rss-b6724e788f7a------2)
 <!-- BLOG-POST-LIST:END -->
