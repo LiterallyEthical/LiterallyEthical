@@ -27,9 +27,9 @@
 
 ##  📖 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Reflected XSS with AngularJS expression escape and CSP](https://medium.com/@ibrahimtahaistikbal/reflected-xss-with-angularjs-expression-escape-and-csp-86feefc650f?source=rss-b6724e788f7a------2)
 - [Reflected XSS with AngularJS Sandbox Escape without Strings](https://medium.com/@ibrahimtahaistikbal/reflected-xss-with-angularjs-sandbox-escape-without-strings-711c02e16503?source=rss-b6724e788f7a------2)
 - [Stored XSS into Onclick Event with angle brackets and double quotes HTML-encoded and single quotes…](https://medium.com/@ibrahimtahaistikbal/stored-xss-into-onclick-event-with-angle-brackets-and-double-quotes-html-encoded-and-single-quotes-8e8bcd51b31a?source=rss-b6724e788f7a------2)
 - [How To Install Windows 10 On An External Hard Drive](https://medium.com/@ibrahimtahaistikbal/how-to-install-windows-10-on-an-external-hard-drive-b6468c34eb83?source=rss-b6724e788f7a------2)
 - [Stored XSS into HTML Context with Nothing Encoded](https://medium.com/@ibrahimtahaistikbal/stored-xss-into-html-context-with-nothing-encoded-3c54b32f2e0c?source=rss-b6724e788f7a------2)
-- [Stored XSS into Anchor href Attribute with Double Quotes HTML-encoded](https://medium.com/@ibrahimtahaistikbal/stored-xss-into-anchor-href-attribute-with-double-quotes-html-encoded-5dbf2deb840d?source=rss-b6724e788f7a------2)
 <!-- BLOG-POST-LIST:END -->
