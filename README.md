@@ -7,9 +7,6 @@
 
 - 📝 I regularly write articles on [my blog.](https://literallyethical.github.io/)
 
-- 📫 How to reach me **ibrahimtahaistikbal@gmail.com**
-
-
 ## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/ltrllyethical" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ltrllyethical" height="30" width="40" /></a>
